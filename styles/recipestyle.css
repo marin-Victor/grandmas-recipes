@@ -1,0 +1,34 @@
+body {
+    font-family: "Verdana", "Helvetica", "Arial";
+    background-image: url("/images/v800-mynt-21.jpg");
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    background-repeat: no-repeat;
+  }
+  ul{
+      list-style-position: inside;
+  }
+  ol{
+      list-style-position: inside;
+  }
+  .mention{
+      top: 40px;
+      position:relative;
+  }
+  .mention2{
+      position:absolute;
+      bottom: 0;
+      right: 0;
+  }
+  .top-left{
+    top: 0px;
+    left: 0px;
+  }
+  .pos-rel{
+    position: relative;
+  }
+  .pos-abs{
+    position: absolute;
+  }
+  
